@@ -1,0 +1,127 @@
+:root{
+    --color-ingles:#abebc6;
+    --color-valen: #f5b7b1;
+    --color-caste: #e74c3c;
+    --color-mates: #aed6f1;
+    --color-inglesoral:#f7dc6f;
+    --color-info:  #2ecc71 ;
+    --color-ef:  #e59866 ;
+    --color-fyq:  #17a589 ;
+    --color-bio:  #d2b4de ;
+    --color-historia:   #f39c12  ;
+    --color-reli:  #f1c40f ;
+    --color-tutoria:  #2e86c1 ;
+}
+body{
+    font-family:'Oswald', sans-serif;
+}
+h1{
+    text-align: center;
+}
+.nomenclatura-ingles{
+    background-color: var(--color-ingles);
+    width: 50px;
+}
+.nomenclatura-valen{
+    background-color: var(--color-valen);
+    width: 50px;
+}
+.nomenclatura-caste{
+    background-color: var(--color-caste);
+    width: 50px;
+}
+.nomenclatura-mates{
+    background-color: var(--color-mates);
+    width: 50px;
+}
+.nomenclatura-inglesoral{
+    background-color: var(--color-inglesoral);
+    width: 50px;
+}
+.nomenclatura-info{
+    background-color: var(--color-info);
+    width: 50px;
+}
+.nomenclatura-ef{
+    background-color: var(--color-ef);
+    width: 50px;
+}
+.nomenclatura-fyq{
+    background-color: var(--color-fyq);
+    width: 50px;
+}
+.nomenclatura-bio{
+    background-color: var(--color-bio);
+    width: 50px;
+}
+.nomenclatura-historia{
+    background-color: var(--color-historia);
+    width: 50px;
+}
+.nomenclatura-reli{
+    background-color: var(--color-reli);
+    width: 50px;
+}
+.nomenclatura-tutoria{
+    background-color: var(--color-tutoria);
+    width: 50px;
+}
+.ingles{
+    background-color: var(--color-ingles);
+}
+.valen{
+    background-color: var(--color-valen);
+}
+.caste{
+    background-color: var(--color-caste);
+}
+.mates{
+    background-color: var(--color-mates);
+}
+.inglesoral{
+    background-color: var(--color-inglesoral);
+}
+.info{
+    background-color: var(--color-info);
+}
+.ef{
+    background-color: var(--color-ef);
+}
+.fyq{
+    background-color: var(--color-fyq);
+}
+.bio{
+    background-color: var(--color-bio);
+}
+.historia{
+    background-color: var(--color-historia);
+}
+.reli{
+    background-color: var(--color-reli);
+}
+.tutoria{
+    background-color: var(--color-tutoria);
+}
+.dias{
+    background-color:  #d84fee ;
+}
+.horario{
+    background-color:  #ecb0f5 ;
+}
+.horas{
+    color: #d84fee ;
+}
+.patio{
+    color: #ecb0f5;
+}
+table{
+    text-align: center;
+    margin: 30px auto;
+}
+.tabla th, .tabla td{
+    border: 2px solid black;
+    padding: 6px;
+}
+.tabla{
+    border-collapse: collapse;
+}
